@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Introduction to Python",
+        "thumbnail": "https://example.com/python-thumbnail.jpg",
+        "markdown": "https://raw.githubusercontent.com/your-username/your-repo/main/python.md",
+        "tags": ["Python", "Programming", "Basics"]
+    },
+    {
+        "title": "Web Development Basics",
+        "thumbnail": "https://example.com/webdev-thumbnail.jpg",
+        "markdown": "https://raw.githubusercontent.com/your-username/your-repo/main/webdev.md",
+        "tags": ["Web Development", "HTML", "CSS"]
+    }
+]
